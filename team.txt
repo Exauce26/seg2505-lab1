@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Stefan
+=======
+exauce
+Dan
+
+>>>>>>> c346ad9495f4cb28ce752c5e8e53905c70b391ae
